@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="IEEE754.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ieee754unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="IEEE754unit"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="77"/>
+        <CursorPos X="16" Y="97"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\customer\AppData\Local\lazarus\onlinepackagemanager\packages\lazrichview\richview.pas"/>
+        <UnitName Value="RichView"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="45" Y="230"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\customer\AppData\Local\lazarus\onlinepackagemanager\packages\richmemo\richmemo.pas"/>
+        <UnitName Value="RichMemo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12"/>
+        <CursorPos X="26" Y="33"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="64" Y="78"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="160"/>
+        <CursorPos X="95" Y="166"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="33"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="154" Column="6" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="153" Column="6" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="152" Column="6" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="151" Column="6" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="183" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="69" Column="34" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="152" Column="29" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="69" Column="36" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="84" Column="16" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="74" Column="50" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="174" Column="24" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="86" Column="23" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="83" Column="19" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="18" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="125" Column="68" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="107" Column="21" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="98" Column="10" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="102" Column="42" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="104" Column="45" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="104" Column="7" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="105" Column="53" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="103" Column="17" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="104" Column="17" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="90" Column="47" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="81" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="121" Column="72" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="243" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="79" Column="52" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="245" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="ieee754unit.pas"/>
+        <Caret Line="116" Column="36" TopLine="102"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="m"/>
+      </Item>
+      <Item>
+        <Expression Value="mv"/>
+      </Item>
+      <Item>
+        <Expression Value="u"/>
+      </Item>
+      <Item>
+        <Expression Value="v"/>
+      </Item>
+      <Item>
+        <Expression Value="u"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
